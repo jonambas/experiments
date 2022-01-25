@@ -58,6 +58,7 @@ function Plane(props: any): JSX.Element {
                 <polygon
                   vectorEffect="non-scaling-stroke"
                   stroke="#000"
+                  // fill="#fad2e1"
                   fill={b.fill}
                   strokeWidth="1px"
                   strokeLinejoin="round"

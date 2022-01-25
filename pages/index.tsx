@@ -12,6 +12,9 @@ const Home: NextPage = () => {
           <li>
             <Link href="/iso">Iso</Link>
           </li>
+          <li>
+            <Link href="/cube">Cube</Link>
+          </li>
         </ul>
       </main>
     </div>
